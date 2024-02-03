@@ -1,3 +1,3 @@
 # README
 
-YHMD helps mechanical design.
+YHMD helps machine design.
